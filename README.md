@@ -1,7 +1,7 @@
 # AnimeDB
 ### Anime Database built with React and REST API from Jikan API (will update the development later)
 
-![Anime Girl](https://www.freeiconspng.com/thumbs/anime-png/anime-png-8.png)
+![Anime Girl](https://www.pngmart.com/files/13/Anime-PNG-Picture.png)
 
 ## Jikan API - UNOFFICIAL MYANIMELIST API
 Jikan (時間) is an open-source PHP & REST API for the “most active online anime + manga community and database” — MyAnimeList.net. It parses the website to satisfy the need for an API.
